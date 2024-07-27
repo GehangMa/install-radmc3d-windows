@@ -1,0 +1,10 @@
+theme: minima
+title: Install Radmc3d with WSL
+description: [main site](GehangMa.github.io)
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+copyright: >-
+  &copy; #YEAR# 航
+  [MIT License](https://opensource.org/license/mit/)
