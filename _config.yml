@@ -1,6 +1,6 @@
 theme: minima
 title: Install Radmc3d with WSL
-description: GehangMa.github.io
+description: [Main Site](GehangMa.github.io)
 highlighter: rouge
 markdown: kramdown
 kramdown:
