@@ -2,7 +2,7 @@ radmc3d需要unix环境shell（mac、linux自带）安装，因此windows系统�
 
 Since the installation of [radmc3d](https://github.com/dullemond/radmc3d-2.0/tree/master) needs **Unix Shell**, **WSL--windows subsystem for linux** should be needed.
 
-## 首次安装 WSL First time WSL installation
+## 首次安装 WSL -- First time WSL installation
 如果已安装WSL，请跳过这一段。
 
 If you have already installed **WSL**, skip this section.
@@ -25,7 +25,7 @@ WSL will be installed with **Default Distribution** _Ubuntu_, please be aware of
 
 After the installation of WSL, register and start using SHELL
 
-## 使用SHELL配置Fortran 和 PYTHON USE SHELL TO INSTALL FORTRAN AND PYTHON
+## 使用SHELL配置Fortran 和 PYTHON -- USE SHELL TO INSTALL FORTRAN AND PYTHON
 
 radmc3d 需要 fortran 和 python 配置，需要在wsl里安装（与windows主系统里是否安装无关）
 
@@ -75,7 +75,7 @@ The python and its modules needed is installed.
 
 Fortran compiler needed is installed.
 
-## Install radmc3d
+## 安装radmc3d -- Install radmc3d
 
 在设置中把默认Terminal换成Linux SHELL
 
