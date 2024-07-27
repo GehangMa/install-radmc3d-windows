@@ -1,4 +1,3 @@
-# install-radmc3d-windows
 radmc3d需要unix环境shell（mac、linux自带）安装，因此windows系统需要**额外安装WSL**以运行radmc3d.
 
 Since the installation of [radmc3d](https://github.com/dullemond/radmc3d-2.0/tree/master) needs **Unix Shell**, **WSL--windows subsystem for linux** should be needed.
