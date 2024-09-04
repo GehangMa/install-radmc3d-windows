@@ -53,7 +53,7 @@ Since radmc3d is runned by fortran and python codes, fortran and python should b
 >
 > sudo apt-get install python-dev #install the python developing environment
 > 
-> pip install -U numpy==1.21.5 #新版不兼容 numpy 2.0.0 cannot be used for radmc3d, so we have to degrade it.
+> pip install -U numpy==1.23.1 #numpy 2.0.0 cannot be used for radmc3d, so we have to degrade it (at least 1.23.1 ver. but not newer than 2.0.0 ver.)
 >
 > pip install scipy
 >
